@@ -1,0 +1,20 @@
+@import "./normalize.css";
+:root {
+  --color-text: "#666";
+  --color-height: #ff5777;
+  --color-tint: #ff8198;
+  --color-background: #fff;
+  --font-size: 14px;
+  --line-height: 1.5;
+  --large-size: 50px;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
