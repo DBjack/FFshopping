@@ -1,4 +1,5 @@
 import HomeSwiper from "./HomeSwiper.vue";
-import HomeSwiperItem from "./HomeSwiperItem.vue";
+import Recommend from "./Recommend.vue";
+import FeatureView from "./FeatureView.vue";
 
-export { HomeSwiper, HomeSwiperItem };
+export { HomeSwiper, Recommend, FeatureView };
